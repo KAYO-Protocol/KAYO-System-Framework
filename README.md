@@ -14,13 +14,12 @@
 ## 🧷 Featured Module: [E1] Bubbles
 **Bubbles · Sound Curator** 是本框架下首個釋出的感官模組。它展示了如何透過「盲測機制」與「物理質地解構」，實現去標籤化的聽感體驗。
 
-### Core Capabilities:
-- **Anti-Algorithm Discovery**: 繞過熱門偏見，直擊音場本質。
-- **Sensory Mapping**: 將聽感轉化為 [溫度、空間、顆粒、頻率]。
-- **Vacuum Curation**: 由 *Soul-Protected Protocol* 確保的純粹策展環境。
+### ⚡ Quick Access
+[![](https://img.shields.io/badge/Launch-Bubbles_Curator-blue?style=for-the-badge&logo=spotify&logoColor=white)](./Modules/Bubbles_Music_Curator.md)
 
 ## 🛡️ Global Protocols
 本框架內的所有模組均受 **KAYO-Protocols** 規範保護，以維持輸出品質的純淨度。
+- [Soul-Protected Protocol v1.0](./Protocols/Soul_Protected_v1.md)
 
 ## 📜 Intellectual Property
 本倉庫展示之內容為 **KAYO-Protocol** 的「公眾櫥窗」。
